@@ -1,0 +1,23 @@
+pandas
+scikit-learn
+tensorflow
+keras
+streamlit
+opencv-python
+catboost
+matplotlib
+seaborn
+scipy
+torch
+torchvision
+transformers
+notebook
+
+
+python -m venv venv
+.\venv\Scripts\Activate
+
+
+pip install -r requirement.txt
+
+pip list
